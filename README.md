@@ -7,7 +7,7 @@ Welcome to **Ultimate Diagram Master**, a powerful tool designed to automaticall
 ## 🚀 Features
 
 *   **AI-Powered Generation**: Describe your system in plain English, and let our AI agent generate the configuration for you.
-*   **Azure Architecture Diagrams**: Automatically generate detailed Azure infrastructure diagrams using the `diagrams` library.
+*   **Architecture Diagrams**: Automatically generate detailed Azure or AWS or GCP infrastructure diagrams using the `diagrams` library.
 *   **Data Flow Diagrams (DFD)**: Create clear data flow visualizations for threat modeling and system analysis.
 *   **BPMN Support**: Generate business process flows using `processpiper`.
 *   **Unified Pipeline**: A single entry point (`pipeline_controller.py`) manages all diagram generation tasks.
